@@ -16,13 +16,13 @@ This project involves the analysis of sales data using **Power BI**. The objecti
 
 ## 🖼️ Sales Data Analysis Dashboard Screenshot
 ### Screenshot 1:
-![Screenshot 1]()
+![Screenshot 1](https://github.com/prashantsaini1525/Wallmart_Sales_dashboard/blob/main/assets/Screenshot%201.png)
 
 ### Screenshot 2:
-![Screenshot 2]()
+![Screenshot 2](https://github.com/prashantsaini1525/Wallmart_Sales_dashboard/blob/main/assets/Screenshot%202.png)
 
 ### Screenshot 3:
-![Screenshot 3]()
+![Screenshot 3](https://github.com/prashantsaini1525/Wallmart_Sales_dashboard/blob/main/assets/Screenshot%203.png)
 
 
 ## 💡 Insights & Key Findings
@@ -33,7 +33,7 @@ This project involves the analysis of sales data using **Power BI**. The objecti
 ## 📥 Getting Started
 1. Clone the repository:
     ```bash
-    git clone
+    git clone https://github.com/prashantsaini1525/Wallmart_Sales_dashboard.git
     ```
 2. Open the **SalesData.pbix** file in Power BI to explore the interactive dashboards.
 
